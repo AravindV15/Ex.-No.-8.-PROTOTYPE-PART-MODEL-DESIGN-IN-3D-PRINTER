@@ -46,7 +46,8 @@
 ###   7.	Open the file from the USB storage and select the Print option.
 
 ## Output:
-![Screenshot (32)](https://github.com/user-attachments/assets/9fb59d7c-73c4-4ba3-8716-48b61d3c8e8f)
+![image](https://github.com/user-attachments/assets/eb9d3ad8-edd9-46e2-ab6c-56b35e5ac319)
+
 ![Screenshot 2024-11-28 140151](https://github.com/user-attachments/assets/50013c88-3740-4e58-b31f-987bdfbc9294)
 
 ### Name: G Aravind
